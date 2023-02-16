@@ -1,5 +1,8 @@
 import os
 import sys
+
+
+print("Toto L'asticot")
 import math
 import random
 import pygame
